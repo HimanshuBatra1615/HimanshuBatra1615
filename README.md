@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Batra</h1>
-<h3 align="center">I’m a full-stack developer 🧑‍💻 skilled in Python 🐍, React ⚛️, and Flask 🌐, passionate about machine learning 🤖 and data science 📊 to create smart, data-driven applications 💡 from India..</h3>
+<h3 align="center">I’m a Data Science & ML Expert 🧑‍💻 skilled in Python 🐍, React ⚛️, and Flask 🌐, passionate about machine learning 🤖 and data science 📊 to create smart, data-driven applications 💡 from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubatra1615&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubatra1615" /> </p>
 
