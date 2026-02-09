@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HimanshuBatra1615](https://github.com/HimanshuBatra1615)
 
-- 📝 I regularly write articles on [https://thesonderistical.blogspot.com/](https://himanshubatra1610.hashnode.dev/)
+- 📝 I regularly write articles on [https://himanshubatra1610.hashnode.dev/](https://himanshubatra1610.hashnode.dev/)
 
 - 📫 How to reach me **batrahimanshu1610@gmail.com**
 
