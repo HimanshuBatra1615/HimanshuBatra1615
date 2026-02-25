@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubatra1615&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuBatra1615" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimanshuBatra1615&theme=tokyonight&no-frame=true&row=1&column=6" alt="HimanshuBatra1615" /></a> </p>
-
 - 🔭 I’m currently working on **Intelligent Multi-Modal Healthcare Diagnostic System**
 
 - 🌱 I’m currently learning **Turborepo, gRPC, NestJS, DeepSpeed, Dask, ArgoCD, BentoML and Kubernetes...**
