@@ -37,12 +37,23 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://dev.to/himanshu_batra16"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://linkedin.com/in/himanshu-batra-1610-ai"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://codesandbox.com/batrahimanshu1610"><img src="https://skillicons.dev/icons?i=codesandbox" /></a>
-<a href="https://kaggle.com/himanshubatra1615"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
-<a href="https://instagram.com/batra_himanshu16"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://www.leetcode.com/himanshu1615"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+
+<a href="https://linkedin.com/in/himanshu-batra-1610-ai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/himanshu1615">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://dev.to/himanshu_batra16">
+  <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/himanshubatra1615">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
 </p>
 
 ---
