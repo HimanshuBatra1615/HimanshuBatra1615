@@ -28,7 +28,6 @@ I build **production-grade AI systems**—bridging the gap between raw data and 
 | **Tech:** FastAPI, LangGraph, Gemini Vision, Next.js | **Tech:** Node.js, Python, OpenCV, React |
 | [🔗 View Project](#) | [🔗 View Project](#) |
 
-*(Note: Replace the `#` above with your actual repo links!)*
 
 ---
 
